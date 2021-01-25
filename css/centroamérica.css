@@ -1,0 +1,104 @@
+
+body{
+    background-color:#130f40;
+    font-family: "Segoe Ui", "Helvetica", sans-serif;
+    font-size: 1em;
+}
+header{
+     text-align: initial;
+     color: black;
+     font-size: 1.5em;
+     background-color: #880DFF; 
+}
+h1{
+  text-align: center;
+  color: black;
+  font-size: 3.0em;
+  background-color: #c7ecee; 
+}
+h2{
+  text-align: center;
+}
+#es{
+  text-align: justify;
+  color: black;
+  font-size: 1.3em; 
+  width:200px;
+  height:950px;
+  border: 1px solid black;
+  background: slategray;
+  background-image: 20%;
+  margin: 5px 5px;
+  float: left;
+}
+#gua{
+  text-align: justify;
+  color: white;
+  font-size: 1.3em; 
+  width:200px;
+  height:950px;
+  border: 1px solid black;
+  background: #273c75;
+  margin: 5px 5px;
+  float: left;
+}
+#Hon{
+  text-align: justify;
+  color: black;
+  font-size: 1.3em; 
+  width:200px;
+  height:950px;
+  border: 1px solid black;
+  background: slategray;
+  margin: 5px 5px;
+  float: left;
+}
+#nic{
+  text-align: justify;
+  color: white;
+  font-size: 1.3em; 
+  width:200px;
+  height:950px;
+  border: 1px solid black;
+  background: #273c75;
+  margin: 5px 5px;
+  float: left;
+}
+#pa{
+  text-align: justify;
+  color: black;
+  font-size: 1.3em; 
+  width:200px;
+  height:950px;
+  border: 1px solid black;
+  background: slategray;
+  margin: 5px 5px;
+  float: left;
+}
+nav li{
+  display: list-item;
+color: skyblue;
+font-size: 1.5em;
+}
+#a{
+width: 200px;
+height: 125px;
+}
+#titulo h2{
+  position: relative;
+  bottom: 10% ;
+  color:  #fbc531;
+  background-image: url(../imagenes/fondo2.jpg);
+  opacity: 0.8;
+}
+#titulo2 h2{
+  position: relative;
+  bottom: 10% ;
+  color:  skyblue;
+  background-image: url(../imagenes/fondo2.jpg);
+  opacity: 0.8;
+}
+p{
+  padding-left: 25px;
+  padding-right: 25px;  
+}

@@ -1,0 +1,33 @@
+*{
+    color: black;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif, Helvetica, sans-serif; 
+     color:white;
+}
+body{
+    background-color:#130f40;
+    font-family: 'Arial', Tahoma, sans-serif;
+    font-size: 1em; 
+}
+header h1{
+    text-align: center;
+    color: white;
+    font-size:2.5em;
+    text-transform: uppercase; 
+}
+#es{ 
+    text-align: center;
+    display: flex;
+    padding: 2em;
+    border: solid;
+    border-color: #6F1E51;
+    width: 300px;
+    background-color: #6F1E51;
+}
+footer p{
+    text-align: center;
+    font-weight: bolder;
+    color:#130f40;
+}
+
